@@ -4,5 +4,5 @@ I am **Alireza Akbarpour** a **Front End Web Developer**(specializing in React A
 # Skills
 1. React and Redux.
 2. JavaScript
-4. Linux Work!
+4. I Linux Work!
 
