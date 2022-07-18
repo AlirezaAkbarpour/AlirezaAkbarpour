@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
 # Hi there! :wave:	
-I am **Alireza Akbarpour** a **Front End Web Developer**(specializing in React Applications).
+I am **Alireza Akbarpour** a **Front End Web Developer.
 
 # Skills
 1. React and Redux.
