@@ -10,5 +10,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
 
 # **Hi** , I Am Alireza Akbarpour
-**FrontEnd Developer**
-__I live in Iran and like who learn more things about web__
+FrontEnd Developer
+I live in Iran and like who learn more things about web
