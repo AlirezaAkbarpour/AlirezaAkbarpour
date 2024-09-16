@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AlirezaAkbarpour&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlirezaAkbarpour&theme=merko&hide_border=false)<br/>
