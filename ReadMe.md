@@ -24,7 +24,7 @@
 - Infrastructure recon and footprinting
 
 📫 Reach me at:
-- 📧 alireza@example.com *(replace with your real email)*
+- 📧 akbarpouralireza1@gmail.com
 - 🌐 [LinkedIn](https://linkedin.com/in/your-profile) *(optional)*
 - 🐦 [Twitter](https://twitter.com/yourhandle) *(optional)*
 
