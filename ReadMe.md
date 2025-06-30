@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alireza Akbarpour</h1>
-<br></br>
 <h3 align="center">Front-End Developer | Penetration Tester | Linux Enthusiast</h3>
 
 ---
